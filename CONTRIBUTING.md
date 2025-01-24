@@ -23,16 +23,17 @@ command-line flag.
 Grant of Rights
 ---------------
 
-By contributing to any open-source project hosted by Sourcemeta, the
-Contributor irrevocably assigns, transfers, and conveys to the organization all
+By contributing to any open-source project hosted by Sourcemeta or by creating
+open-source derivatives of any project hosted by Sourcemeta, the Contributor 
+irrevocably assigns, transfers, and conveys to the organization all
 right, title, and interest in and to any contributions, including, but not
 limited to, all intellectual property rights.
 
 The contributor acknowledges and agrees that Sourcemeta shall have the
 exclusive right to use, reproduce, modify, distribute, publicly display,
 publicly perform, sublicense, and otherwise exploit the contributions, whether
-in original or modified form, for any purpose and without any obligation to
-account to the contributor.
+in original or modified form, and open-source derivatives for any purpose 
+and without any obligation to account to the contributor.
 
 The contributor grants Sourcemeta the right to re-license the contributions,
 including any derivative works, under other licenses as Sourcemeta deems
