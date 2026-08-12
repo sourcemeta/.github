@@ -1,30 +1,31 @@
 Contributing to Sourcemeta
 ==========================
 
-*Version 2, effective 8 August 2026*
+*Version 2, effective 12 August 2026*
 
 Sourcemeta welcomes and appreciates external contributions, whether code,
 documentation, design, or any other type of improvement to our projects.
 
-Sourcemeta projects are dual licensed. Anyone may use them under their
-open-source license, typically the GNU Affero General Public License v3.0.
-By contributing, you keep your copyright and grant Sourcemeta OÜ the licenses
-below. As the only party holding these licenses from every contributor,
-Sourcemeta alone can offer the projects under other terms, including by
-selling exceptions to the open-source license. That is how Sourcemeta funds
-its open-source work.
+Sourcemeta projects are dual licensed. Anyone may use them under the license
+Sourcemeta publishes them under, whether an open-source license, typically
+the GNU Affero General Public License v3.0, or a source-available license,
+such as the Business Source License (the "project license"). By contributing,
+you keep your copyright and grant Sourcemeta OÜ the licenses below. As the
+only party holding these licenses from every contributor, Sourcemeta alone
+can offer the projects under other terms, including by selling exceptions to
+the project license. That is how Sourcemeta funds its work.
 
 A contribution is any original work of authorship, including modifications or
 additions to an existing work, that you intentionally submit for inclusion in
-any project that Sourcemeta publishes under an open-source license from a
-source code repository it administers, such as those under the [`sourcemeta`
+any project that Sourcemeta publishes under a project license from a source
+code repository it administers, such as those under the [`sourcemeta`
 GitHub organization](https://github.com/sourcemeta). Submitting covers any
 electronic or written communication sent to Sourcemeta for that purpose, such
 as pull requests, patches, and code or documentation proposed in reviews or
 issue trackers, but excludes anything you conspicuously mark as "Not a
 Contribution". Anything else, such as using or forking a project, creating
-derivative works, or filing issues, is governed solely by the license of the
-corresponding project, and this document imposes no terms on it.
+derivative works, or filing issues, is governed solely by the corresponding
+project license, and this document imposes no terms on it.
 
 Developer Certificate of Origin
 -------------------------------
@@ -77,8 +78,7 @@ carries no sign-off or statement, Sourcemeta will point you to these terms
 before merging it, and you may withdraw the submission instead.
 If, despite the above, these terms are not validly accepted for a submission,
 it is licensed by you, to the extent of your rights in it, to Sourcemeta and
-all recipients of it under the open-source license of the corresponding
-project. No further act by Sourcemeta is required.
+all recipients of it under the corresponding project license. No further act by Sourcemeta is required.
 
 The version of these terms published in this repository when you submit
 governs that contribution, with the Git history of this file as the
@@ -101,9 +101,9 @@ collections, publicly display, publicly perform, distribute, communicate to
 the public, and make available to the public your contributions and such
 derivative works, in any medium, to otherwise exercise all economic rights in
 them, and to license them, alone or as part of a project, under any
-open-source license and under any proprietary or commercial terms, including
-by selling exceptions to the open-source license of the corresponding
-project. This license covers only material in which you own the rights or are
+open-source or source-available license and under any proprietary or
+commercial terms, including by selling exceptions to the corresponding
+project license. This license covers only material in which you own the rights or are
 otherwise entitled to license. Third-party material is addressed below.
 
 ### Grant of Patent License
@@ -163,8 +163,7 @@ cooperate in any such enforcement.
 If any part of your submission is not your original creation, as the
 Developer Certificate of Origin permits, you must identify that part, its
 source, and its license in the commit message or in the submission itself,
-and its license must be compatible with the license of the corresponding
-project. Third-party material enters the project solely under its own
+and its license must be compatible with the corresponding project license. Third-party material enters the project solely under its own
 license. The licenses granted under these terms do not cover it, and
 Sourcemeta will not rely on these terms to license it under any other terms.
 
@@ -200,7 +199,7 @@ these terms or transfer of the licenses granted under them remains subject to
 the Availability of Contributions section. If any provision is held
 unenforceable, the rest remains in effect. These terms do not deprive you of
 any statutory right that cannot be limited or waived by agreement, do not
-modify, limit, or condition any right that anyone has under the open-source
+modify, limit, or condition any right that anyone has under the project
 license of any Sourcemeta project, and are not additional terms under section
 7 of the GNU Affero General Public License or any similar provision of any
 other license.
