@@ -1,7 +1,7 @@
 Contributing to Sourcemeta
 ==========================
 
-*Version 3, effective 5 September 2026*
+*Version 3, effective 6 September 2026*
 
 Sourcemeta welcomes and appreciates external contributions, whether code,
 documentation, design, or any other type of improvement to our projects.
