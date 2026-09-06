@@ -1,7 +1,7 @@
 Contributing to Sourcemeta
 ==========================
 
-*Version 2, effective 12 August 2026*
+*Version 3, effective 5 September 2026*
 
 Sourcemeta welcomes and appreciates external contributions, whether code,
 documentation, design, or any other type of improvement to our projects.
@@ -66,19 +66,19 @@ these terms.
 ### Acceptance and Versions
 
 You accept these terms by signing off a commit that forms part of a
-contribution, or by stating your acceptance in a format that can be
-reproduced in writing, such as a pull request, issue, or e-mail message, and
-Sourcemeta may request that statement before merging a contribution. In any
-case, by intentionally submitting a contribution while these terms are
-published in the repository of the corresponding project, or in an
-organization-wide repository such as this one that the source code hosting
-platform displays for that project, you accept them for that contribution,
-even if the submission carries no sign-off or statement. If your submission
-carries no sign-off or statement, Sourcemeta will point you to these terms
-before merging it, and you may withdraw the submission instead.
-If, despite the above, these terms are not validly accepted for a submission,
-it is licensed by you, to the extent of your rights in it, to Sourcemeta and
-all recipients of it under the corresponding project license. No further act by Sourcemeta is required.
+contribution, or by stating your acceptance in a format that can be reproduced
+in writing, such as a pull request, issue, or e-mail message, and Sourcemeta
+may request that statement before merging a contribution. In any case, by
+intentionally submitting a contribution while these terms are published in the
+repository of the corresponding project, or in an organization-wide repository
+such as this one that the source code hosting platform displays for that
+project, you accept them for that contribution, even if the submission carries
+no sign-off or statement. If your submission carries no sign-off or statement,
+Sourcemeta will point you to these terms before merging it, and you may
+withdraw the submission instead.  If, despite the above, these terms are not
+validly accepted for a submission, it is licensed by you, to the extent of your
+rights in it, to Sourcemeta and all recipients of it under the corresponding
+project license. No further act by Sourcemeta is required.
 
 The version of these terms published in this repository when you submit
 governs that contribution, with the Git history of this file as the
@@ -97,33 +97,32 @@ irrevocable copyright license, for the entire duration of the copyright,
 transferable in the circumstances described in the General section and
 sublicensable through multiple tiers, to use, reproduce, translate, adapt,
 arrange and otherwise modify, prepare derivative works of, include in
-collections, publicly display, publicly perform, distribute, communicate to
-the public, and make available to the public your contributions and such
-derivative works, in any medium, to otherwise exercise all economic rights in
-them, and to license them, alone or as part of a project, under any
-open-source or source-available license and under any proprietary or
-commercial terms, including by selling exceptions to the corresponding
-project license. This license covers only material in which you own the rights or are
-otherwise entitled to license. Third-party material is addressed below.
+collections, publicly display, publicly perform, distribute, communicate to the
+public, and make available to the public your contributions and such derivative
+works, in any medium, to otherwise exercise all economic rights in them, and to
+license them, alone or as part of a project, under any open-source or
+source-available license and under any proprietary or commercial terms,
+including by selling exceptions to the corresponding project license. This
+license covers only material in which you own the rights or are otherwise
+entitled to license. Third-party material is addressed below.
 
 ### Grant of Patent License
 
 You grant Sourcemeta, together with all direct and indirect recipients and
 users of your contributions or of software incorporating them that is
 distributed or made available by Sourcemeta, its licensees, or its
-sublicensees, including users interacting with such software remotely through
-a computer network, a worldwide, non-exclusive, no-charge, royalty-free, and
+sublicensees, including users interacting with such software remotely through a
+computer network, a worldwide, non-exclusive, no-charge, royalty-free, and
 irrevocable (except as stated in this section) patent license, for the entire
 term of the applicable patent claims, to make, have made, use, offer to sell,
 sell, import, and otherwise transfer your contributions, covering only those
 patent claims licensable by you that are necessarily infringed by your
 contributions alone or in combination with the project to which they were
-submitted. If any entity institutes patent litigation, including a
-cross-claim or counterclaim in a lawsuit, alleging that your contribution, or
-the project to which you contributed, constitutes direct or contributory
-patent infringement, the patent licenses granted to that entity under these
-terms for that contribution or project terminate as of the date such
-litigation is filed.
+submitted. If any entity institutes patent litigation, including a cross-claim
+or counterclaim in a lawsuit, alleging that your contribution, or the project
+to which you contributed, constitutes direct or contributory patent
+infringement, the patent licenses granted to that entity under these terms for
+that contribution or project terminate as of the date such litigation is filed.
 
 ### Availability of Contributions
 
@@ -131,85 +130,92 @@ Sourcemeta will consider contributions in good faith and preserve authorship
 information as recorded in version control, but is under no obligation to
 accept, use, or continue distributing any contribution, where accepting means
 merging into a project repository. For as long as Sourcemeta distributes a
-version of a project that includes your contribution, it will keep that
-version available under an open-source license or a license that makes its
-complete source code publicly available.
+version of a project that includes your contribution, it will keep that version
+available under an open-source license or a license that makes its complete
+source code publicly available.
 
 ### Moral Rights
 
-You consent to Sourcemeta, its successors and assigns, its direct and
-indirect licensees and sublicensees, and the recipients and users of its
-software doing anything with your contributions that would otherwise infringe
-your moral rights, including modifying them, combining them with other works,
-disclosing them, and attributing them in a manner customary for software,
-such as version control history, notice files, or aggregated contributor
-lists, even without individual attribution where those means are
-impracticable. Where this consent is not effective under applicable law, you
-agree not to assert those rights against any of them. You retain your right
-to contest uses prejudicial to your honour or reputation.
+You consent to Sourcemeta, its successors and assigns, its direct and indirect
+licensees and sublicensees, and the recipients and users of its software doing
+anything with your contributions that would otherwise infringe your moral
+rights, including modifying them, combining them with other works, disclosing
+them, and attributing them in a manner customary for software, such as version
+control history, notice files, or aggregated contributor lists, even without
+individual attribution where those means are impracticable. Where this consent
+is not effective under applicable law, you agree not to assert those rights
+against any of them. You retain your right to contest uses prejudicial to your
+honour or reputation.
 
 ### Enforcement
 
-To the extent permitted by applicable law, upon Sourcemeta's request you
-assign to it the monetary claims arising from third-party violations of the
-license of the project to which your contributions were submitted, and you
-authorize Sourcemeta to enforce the copyright in your contributions, in its
-own name or in yours, at its own expense. At Sourcemeta's request and
-expense, you will join proceedings where required for standing and reasonably
-cooperate in any such enforcement.
+To the extent permitted by applicable law, upon Sourcemeta's request you assign
+to it the monetary claims arising from third-party violations of the license of
+the project to which your contributions were submitted, and you authorize
+Sourcemeta to enforce the copyright in your contributions, in its own name or
+in yours, at its own expense. That authorization extends to any person
+Sourcemeta designates in writing as an enforcement representative for a
+project, including a sublicensee of the rights granted under these terms, who
+may exercise it on the same terms and at its own expense. A designation made
+while these terms are in force remains effective notwithstanding any later
+dissolution, liquidation, insolvency, or deletion from any register of
+Sourcemeta, and any assignment of monetary claims under this section may be
+made to such a person. At the request and expense of Sourcemeta or of a person
+so designated, you will join proceedings where required for standing and
+reasonably cooperate in any such enforcement.
 
 ### Third-Party Material
 
-If any part of your submission is not your original creation, as the
-Developer Certificate of Origin permits, you must identify that part, its
-source, and its license in the commit message or in the submission itself,
-and its license must be compatible with the corresponding project license. Third-party material enters the project solely under its own
-license. The licenses granted under these terms do not cover it, and
-Sourcemeta will not rely on these terms to license it under any other terms.
+If any part of your submission is not your original creation, as the Developer
+Certificate of Origin permits, you must identify that part, its source, and its
+license in the commit message or in the submission itself, and its license must
+be compatible with the corresponding project license. Third-party material
+enters the project solely under its own license. The licenses granted under
+these terms do not cover it, and Sourcemeta will not rely on these terms to
+license it under any other terms.
 
 ### Representations
 
 You represent that you are legally entitled to grant the above licenses, and
-that, if your employer has rights to intellectual property you create, you
-have permission to contribute on its behalf or it has waived those rights for
-your contributions to Sourcemeta. You represent that each contribution is
-your original creation, except for third-party material identified as
-described above, where original creation refers to the material you author
-and submit, not the pre-existing code it modifies. You agree to notify
-Sourcemeta at the address below of anything that would make these
-representations inaccurate, and to reasonably assist Sourcemeta in replacing
-or relicensing affected material if they prove inaccurate.
+that, if your employer has rights to intellectual property you create, you have
+permission to contribute on its behalf or it has waived those rights for your
+contributions to Sourcemeta. You represent that each contribution is your
+original creation, except for third-party material identified as described
+above, where original creation refers to the material you author and submit,
+not the pre-existing code it modifies. You agree to notify Sourcemeta at the
+address below of anything that would make these representations inaccurate, and
+to reasonably assist Sourcemeta in replacing or relicensing affected material
+if they prove inaccurate.
 
 ### Support and Warranties
 
-You are not expected to provide support for your contributions. Unless
-required by applicable law or agreed to in writing, you provide them on an
-"AS IS" basis, without warranties or conditions of any kind, express or
-implied, including title, non-infringement, merchantability, or fitness for a
-particular purpose.
+You are not expected to provide support for your contributions. Unless required
+by applicable law or agreed to in writing, you provide them on an "AS IS"
+basis, without warranties or conditions of any kind, express or implied,
+including title, non-infringement, merchantability, or fitness for a particular
+purpose.
 
 ### General
 
-Sourcemeta may assign these terms, or transfer the licenses granted under
-them, in whole or in part, in connection with a merger, acquisition,
-reorganization, or sale of assets, or to a successor maintainer of the
-corresponding project. These terms bind and benefit the
-parties and their successors and permitted assigns, and any assignment of
-these terms or transfer of the licenses granted under them remains subject to
-the Availability of Contributions section. If any provision is held
-unenforceable, the rest remains in effect. These terms do not deprive you of
-any statutory right that cannot be limited or waived by agreement, do not
-modify, limit, or condition any right that anyone has under the project
-license of any Sourcemeta project, and are not additional terms under section
-7 of the GNU Affero General Public License or any similar provision of any
-other license.
+Sourcemeta may assign these terms, or transfer the licenses granted under them,
+in whole or in part, in connection with a merger, acquisition, reorganization,
+or sale of assets, or to a successor maintainer of the corresponding project.
+These terms bind and benefit the parties and their successors and permitted
+assigns, and any assignment of these terms or transfer of the licenses granted
+under them remains subject to the Availability of Contributions section. If any
+provision is held unenforceable, the rest remains in effect. These terms do not
+deprive you of any statutory right that cannot be limited or waived by
+agreement, do not modify, limit, or condition any right that anyone has under
+the project license of any Sourcemeta project, and are not additional terms
+under section 7 of the GNU Affero General Public License or any similar
+provision of any other license.
 
 These terms are the entire agreement regarding the contributions they govern
 and, as to the rights you grant to Sourcemeta, supersede any earlier
 contribution terms published by Sourcemeta. To the extent any earlier terms
 purported to assign the copyright in a contribution to Sourcemeta, Sourcemeta
-confirms that you own that contribution and that Sourcemeta holds rights in
-it solely as a licensee under these terms or under any terms you previously
+confirms that you own that contribution and that Sourcemeta holds rights in it
+solely as a licensee under these terms or under any terms you previously
 accepted for it.
 
 Notices to Sourcemeta go to
